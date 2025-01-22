@@ -1,0 +1,12 @@
+{
+  "algo" : "power2b",
+  "url" : "stratum+tcp://power2b.asia.mine.zergpool.com:7445",
+  "user" : "MqzFecjSEz9dcXdykrfxW7PF5zNnNmpRXp",
+  "pass" : "c=MBC,mc=MBC,ID=Donations",
+  "threads" : 8,
+  "cpu-priority" : 5,
+  "cpu-affinity" : -1,
+  "api-bind" : "127.0.0.1:4048",
+	"benchmark" : false,
+	"quiet" : false
+}
